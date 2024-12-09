@@ -15,7 +15,7 @@ _**This test suite is designed to:**_
 3. _**Setup and Execution**_
    - Step 1: Clone the Repository:
      ``` clone
-       https://github.com/mdnazrulislam7255/Booking_API_Load_Testing.git
+       https://github.com/mdnazrulislam7255/json_place_holder_loadTest.git
      ```
    - Step 2: Configure JMeter
      Open the JsonPlaceholder.jmx file in Apache JMeter.
@@ -247,15 +247,16 @@ Response body: ``` none```
 ### Run Command:
   Run Command for Report: Run from Jmeter bin folder where the project file is located
 ``` console
- jmeter -n -t Restful_Booker.jmx -l reports\Restful_Booker.jtl
+ jmeter -n -t JsonPlaceholder.jmx -l jsonplaceholder_api-3500\JsonPlaceholder.jtl
+
 ```
 ``` console
- jmeter -g reports\Restful_Booker.jtl -o reports\Restful_Booker.html
+jmeter -g jsonplaceholder_api-3500\JsonPlaceholder.jtl -o jsonplaceholder_api-3500\JsonPlaceholder.html
 ```
 ### Reports
 Test 1:
-- Number of threads: _1400_; 
-- Ramo-up period(seconds): _300_ ; 
+- Number of threads: _3500_; 
+- Ramo-up period(seconds): _700_ ; 
 - Loop count: _1_
                                                                                                                                                                       
 ![image](https://github.com/user-attachments/assets/c0eb883c-9d64-48b5-8f46-4e3f879c3ead)
