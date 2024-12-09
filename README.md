@@ -85,7 +85,7 @@ Response body:
 }
 ```
 
-## _Get post by ID_
+## _Get Post by ID_
 Protocol : _https_                                                                                                                                                                        
 Server Name or IP: _jsonplaceholder.typicode.com_                                                                                                                                         
 HTTP Request method: _GET_                                                                                                                                                               
@@ -219,7 +219,7 @@ Response body:
   "id": 1
 }
 ```
-## _Update posts Partially_
+## _Update Post Partially_
 Protocol : _https_
 Server Name or IP: _jsonplaceholder.typicode.com_                                                                                                                                         
 HTTP Request method: _PATCH_                                                                                                                                                              
@@ -258,19 +258,13 @@ Test 1:
 - Number of threads: _3500_; 
 - Ramo-up period(seconds): _700_ ; 
 - Loop count: _1_
-                                                                                                                                                                      
-![image](https://github.com/user-attachments/assets/c0eb883c-9d64-48b5-8f46-4e3f879c3ead)
-![image](https://github.com/user-attachments/assets/2d3e7db6-d517-4ca9-b69b-54fddfcaac4a)
-![image](https://github.com/user-attachments/assets/86ed5c8b-4fb2-46ac-ab39-be6314bc956b)
 
 Test 2:
 - Number of threads: _2500_; 
 - Ramo-up period(seconds): _500_ ; 
 - Loop count: _1_
 
-![image](https://github.com/user-attachments/assets/bb5ea66d-12fa-4f75-aca2-7d937500c2c8)
-![image](https://github.com/user-attachments/assets/ce58be70-068b-49f8-95eb-21fc2f05cdf7)
-![image](https://github.com/user-attachments/assets/89637daf-b33a-4ddc-b050-a169aac052b5)
+
 
 ### Contact
 For questions or support, contact the development team at: Email: _nazrul15-7255@diu.edu.bd_
