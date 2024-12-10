@@ -15,7 +15,7 @@ _**This test suite is designed to:**_
 3. _**Setup and Execution**_
    - Step 1: Clone the Repository:
      ``` clone
-       https://github.com/mdnazrulislam7255/json_place_holder_loadTest.git
+       https://github.com/mdnazrulislam7255/Json_Place_Holder_loadTesting.git
      ```
    - Step 2: Configure JMeter
      Open the JsonPlaceholder.jmx file in Apache JMeter.
