@@ -25,17 +25,20 @@ _**This test suite is designed to:**_
    - Click on the Import button.
    - Select the file from the repository.
 
-**Usage**
-_**Select Environment:**_
-      In Apache JMeter, select the appropriate environment from the top-right dropdown.
-_**Run Collection:**_
-      Select the imported collection.
-      Select any one of the listener .
-      Select the desired environment.
-      Click Start Test to run the project.
-_**View Results:**_
-     Once the tests are complete, view the results in the listener like View Results Tree or Aggregate Report.
-     Detailed test results can be viewed for each request.
+_**Usage**_ <br>
+
+_**Select Environment:**_ <br>
+      In Apache JMeter, select the appropriate environment from the top-right dropdown. <br>
+
+_**Run Collection:**_ <br>                         																				
+      Select the imported collection. <br>
+      Select any one of the listener . <br>
+      Select the desired environment. <br>
+      Click Start Test to run the project.<br>
+      
+_**View Results:**_ <br>
+       Once the tests are complete, view the results in the listener like View Results Tree or Aggregate Report. <br>
+       Detailed test results can be viewed for each request.
 
 ## The script includes:
 - Thread Groups: Configured with variable user loads and ramp-up times to simulate real-world usage patterns.
