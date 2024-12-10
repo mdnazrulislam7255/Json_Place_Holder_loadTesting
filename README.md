@@ -1,4 +1,4 @@
-# JSON Place Holder Performance testing
+# JSON Place Holder Performance Testing
 This project evaluates the performance of the JSON Place Holder fake API. Using Apache JMeter, this test plan is configured to simulate HTTP requests such as GET, POST, PUT, PATCH, and DELETE, targeting key API endpoints.
 
 _**This test suite is designed to:**_
