@@ -27,13 +27,12 @@ _**This test suite is designed to:**_
 
 _**Usage**_ <br>
 
-_**Select Environment:**_ <br>
-      In Apache JMeter, select the appropriate environment from the top-right dropdown. <br>
+_**Select jmx file:**_ <br>
+      In Apache JMeter, select the appropriate jmx file. <br>
 
-_**Run Collection:**_ <br>                         																				
-      Select the imported collection. <br>
+_**Run project:**_ <br>                         																				
+      Select the imported file. <br>
       Select any one of the listener . <br>
-      Select the desired environment. <br>
       Click Start Test to run the project.<br>
       
 _**View Results:**_ <br>
