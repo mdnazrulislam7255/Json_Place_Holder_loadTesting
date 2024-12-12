@@ -20,7 +20,7 @@ _**This test suite is designed to:**_
    - Step 2: Configure JMeter
      Open the JsonPlaceholder.jmx file in Apache JMeter.
      Update the HTTP Request Defaults element to set the API base URL and authentication details (if applicable).
-3. **_Import collection:_**
+3. **_Import jmx file:_**
    - Open Jmeter.
    - Click on the Import button.
    - Select the file from the repository.
